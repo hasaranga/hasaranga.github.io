@@ -11300,7 +11300,7 @@ function ZyncLoop() {
             ImGui.Text("Created with imgui-js and indexeddb-fs.");
             ImGui.Text("ZyncOS is licensed under the MIT License.");
             ImGui.Separator();
-            ImGui.Text("Visit https://www.crownsoft.net for more information.");
+            ImGui.Text("Visit https://github.com/hasaranga/ZyncOS for more information.");
         }
         ImGui.End();
     }
@@ -15331,4 +15331,4 @@ exports.SetupZyncTheme = SetupZyncTheme;
 
 },{"3e6febf700b5e80f":"cuxuv"}]},["2MUsd"], "2MUsd", "parcelRequire5f76")
 
-//# sourceMappingURL=index.e3d92bb5.js.map
+//# sourceMappingURL=index.cd97c084.js.map
